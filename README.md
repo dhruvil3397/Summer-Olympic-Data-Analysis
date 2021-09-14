@@ -12,7 +12,7 @@ There are 8 questions given for the data analysis.
 8. Which sport is having most female Gold Medalists? (Top 5)
 
 # Steps:
-1.Import libraries: numpy,pandas,matplotlib,
-2.Load dataset
-3.Data Preprocessing
-4.Data Analysis
+1. Import libraries: numpy,pandas,matplotlib,
+2. Load dataset
+3. Data Preprocessing
+4. Data Analysis
